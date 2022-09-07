@@ -86,7 +86,7 @@ git remote add origin https://github.com/Swastik-Chakravorty/LearningGit.git (ad
 
 git remote (to check the remote)
 
-git remote -v
+git remote -v (to check what and how many remotes)
 
 (add ssh key by reffering ssh key github search)
 
