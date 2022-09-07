@@ -124,3 +124,5 @@ error and ask you to delete non merged branches type -D)
 
 git branch -D develop (to delete the non merged branches Ex. develop)
 
+git push origin bugfix (to push bugfix branch)
+
